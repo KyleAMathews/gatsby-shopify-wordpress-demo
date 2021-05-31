@@ -8,6 +8,7 @@ import SearchIcon from "../icons/search"
 import { Toast } from "./toast"
 import {
   header,
+  blog as blogCss,
   container,
   logo as logoCss,
   searchButton,
